@@ -7,7 +7,7 @@ using System.Threading;
 namespace ShapeApplication
 {
 	//Question 1
-	public class Shape
+	public abstract class Shape
 	{
 		static int counter = 0;
 		public const double pi = 3.14;
